@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Box Example</title>
+    <script>
+        function showMessage() {
+            
+            alert("tara suntukan");
+
+            
+            alert("tara tanginamo");
+
+           
+            alert("inamo gago ka");
+        }
+    </script>
+</head>
+<body>
+    <h1>hi gago ka</h1>
+    <button onclick="showMessage()">pindutin mo to fuckyou!</button>
+</body>
+</html>
